@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* 
+Elias Marin Chaparro
+eliasstaticx@hotmail.com
+Nanolabs 2013 */
+
+body{
+	font-family: 'Bowlby One', cursive;
+	}
+	
+footer{
+	margin-top:50px;
+	background-color:black;
+	padding:5px 5px;
+	width:100%;
+	text-align:center;
+	color:white;
+	font-size:36px;
+	font-weight:800;
+	}
+	
+button{
+	width:300px;
+	height:106px;
+	font-size:28px;
+	background-image: url("../img/boton.jpg");
+	color:white;
+	text-indent:-9999px;
+	}	
+	
+img{
+	float:left;
+	margin:5px 5px;
+	}
+			
+.centrar{
+	width:80%;
+	margin:0 auto;
+	}
+	
+.centrarboton{
+	width:250px;
+	margin:0 auto;
+	}	
+	
+.instagram {
+	width:900px;
+	margin:0 auto;
+	}	
+	
+.clear {
+	clear:both;
+	}
+
+#logo{
+	background-image: url("../img/logo-chih-en-bici.jpg");
+	background-repeat:no-repeat;
+	width:288px;
+	height:200px;	
+	margin:30px 0 0 13%;
+	float: left;
+	display: block;
+	}
+	
+#titulo{
+	float:left;
+	margin: 100px 0 0 10px;
+	font-size: 42px;	
+	}	
+	
+#nanolabs{
+	background-image: url("../img/nanolabs.jpg");
+	background-repeat:no-repeat;
+	width:200px;
+	height:80px;	
+	margin:10px auto;	
+	text-indent:-9999px;
+	margin-bottom: -15px;
+	}
+	
+footer p{
+	font-size:14px;
+	font-weight:lighter;
+	}		
